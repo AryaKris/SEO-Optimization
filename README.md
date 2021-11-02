@@ -29,4 +29,4 @@ Then deployed the application in to GitHub.
 Link to deployed application - https://aryakris.github.io/SEO-Optimization/
 
 #### Image
-![alt text](https://aryakris.github.io/SEO-Optimization/)
+![alt text](https://github.com/AryaKris/SEO-Optimization/blob/master/Deployed_Application_Screenshot.png?raw=true)
